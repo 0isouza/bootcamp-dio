@@ -8,7 +8,7 @@ function substituirPares(entrada){
 
     for (let i=0;i<=(entrada.length -1);i++){ //Validar se o número é par e substituir caso positivo.
         if(entrada[i] % 2 === 0 ){
-            entrada[i] = 0
+            entrada[i] = 0 // Substitui o valor par por zero.
         }
     }
     return (`Output:\t[${entrada}]`); // Imprime saída modificada.
