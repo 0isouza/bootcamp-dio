@@ -12,4 +12,4 @@ Projeto referente ao curso "Manipulando o DOM" pela [Digital Innovation One](htt
 
 ## Exemplo
 
-![Exercício Dark Mode e Light Mode](./dark-mode-exercicio.gif)
+![Exercício Dark Mode e Light Mode](./exemplo.gif)
