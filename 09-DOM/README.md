@@ -8,7 +8,7 @@ Projeto referente ao curso "Manipulando o DOM" pela [Digital Innovation One](htt
 2. Copie deste repositório ou crie do zero um HTML e o CSS padrões.
 3. Crie um arquivo chamado `scripts.js` na sua pasta `assets/js`
 4. Selecione os elementos: `h1`, `button`, `footer` e `body`
-5. Se os elementos possuirem a classe `dark-mode`, modifique seus estilos. Caso contrário, volte os estilos para o original
+5. Se os elementos possuirem a classe `dark-mode`, modifique seus estilos. Caso contrário, volte os estilos para o original.
 
 ## Exemplo
 
