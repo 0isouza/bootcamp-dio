@@ -21,4 +21,6 @@ Aqui irei compartilhar meu progresso em cada aula.
 
 
 ### ReactJS
-   - [Ciclo de Vida no ReactJS](https://github.com/0isouza/bootcamp-dio/tree/master/11-Ciclo-de-vida-ReactJS/)
+   - [Ciclo de Vida no ReactJS](https://github.com/0isouza/bootcamp-dio/tree/master/11-Ciclo-de-vida-ReactJS)
+   - [Front-End Totalmente Componetizado](https://github.com/0isouza/bootcamp-dio/tree/master/12-Front-end-componentizado-ReactJS)
+   - [Construindo um Encurtador de URL](https://github.com/0isouza/bootcamp-dio/tree/master/13-Projeto-Encurtador-URL)
